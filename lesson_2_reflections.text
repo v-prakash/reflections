@@ -1,3 +1,5 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 -- A new folder .git is created with metadata. You need it so that we can checkin code into git.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
